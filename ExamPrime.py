@@ -7,3 +7,6 @@ if (num % 2) == 0:
    print("{0} is Even".format(num))
 else:
    print("{0} is Odd".format(num))
+
+
+# souce https://www.programiz.com/python-programming/examples/odd-even
